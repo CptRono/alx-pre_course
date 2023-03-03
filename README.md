@@ -1,1 +1,1 @@
-readme for root dir alx-pre course
+readme for root dir alx-pre course UPDATED
